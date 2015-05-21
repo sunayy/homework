@@ -6,7 +6,7 @@
   
     private $database;  
   
-    private function insert($user) {  
+    public function insert($user) {  
         //ここにソースコードを追加  
     }  
   
